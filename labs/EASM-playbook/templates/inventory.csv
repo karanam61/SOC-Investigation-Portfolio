@@ -1,0 +1,6 @@
+Asset Type,Asset Value,Source,Verified (Y/N),Notes
+Domain,abanca.com,Whois,Y,Primary domain
+Domain,abanca.es,Reverse Whois,Y,Regional domain
+Subdomain,login.abanca.com,Sublist3r,Y,Login page
+IP,123.45.67.89,A record,Y,Maps to login.abanca.com
+SSL,*.abanca.com,crt.sh,Y,Expires 2025-02-01

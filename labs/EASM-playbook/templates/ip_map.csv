@@ -1,0 +1,3 @@
+IP Address,Associated Domain,Service,Port,Status,Owner
+123.45.67.89,login.abanca.com,HTTPS,443,Open,Abanca
+123.45.67.90,vpn.abanca.com,IPSec,500,Open,Abanca
